@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SQL Project Web app\\FeedBackApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B823B01-F796-480A-A576-B06C50742BB8}|FeedBackApp\\FeedBackApp.csproj|e:\\sql project web app\\feedbackapp\\feedbackapp\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B823B01-F796-480A-A576-B06C50742BB8}|FeedBackApp\\FeedBackApp.csproj|solutionrelative:feedbackapp\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B823B01-F796-480A-A576-B06C50742BB8}|FeedBackApp\\FeedBackApp.csproj|e:\\sql project web app\\feedbackapp\\feedbackapp\\feedbackdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B823B01-F796-480A-A576-B06C50742BB8}|FeedBackApp\\FeedBackApp.csproj|solutionrelative:feedbackapp\\feedbackdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B823B01-F796-480A-A576-B06C50742BB8}|FeedBackApp\\FeedBackApp.csproj|e:\\sql project web app\\feedbackapp\\feedbackapp\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B823B01-F796-480A-A576-B06C50742BB8}|FeedBackApp\\FeedBackApp.csproj|solutionrelative:feedbackapp\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B823B01-F796-480A-A576-B06C50742BB8}|FeedBackApp\\FeedBackApp.csproj|e:\\sql project web app\\feedbackapp\\feedbackapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B823B01-F796-480A-A576-B06C50742BB8}|FeedBackApp\\FeedBackApp.csproj|solutionrelative:feedbackapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B823B01-F796-480A-A576-B06C50742BB8}|FeedBackApp\\FeedBackApp.csproj|e:\\sql project web app\\feedbackapp\\feedbackapp\\feedback.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B823B01-F796-480A-A576-B06C50742BB8}|FeedBackApp\\FeedBackApp.csproj|solutionrelative:feedbackapp\\feedback.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B823B01-F796-480A-A576-B06C50742BB8}|FeedBackApp\\FeedBackApp.csproj|E:\\SQL Project Web app\\FeedBackApp\\feedbackapp\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B823B01-F796-480A-A576-B06C50742BB8}|FeedBackApp\\FeedBackApp.csproj|solutionrelative:feedbackapp\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SQL Project Web app\\FeedBackApp\\FeedBackApp\\Program.cs",
+              "RelativeDocumentMoniker": "FeedBackApp\\Program.cs",
+              "ToolTip": "E:\\SQL Project Web app\\FeedBackApp\\FeedBackApp\\Program.cs",
+              "RelativeToolTip": "FeedBackApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:53:06.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Feedback.cs [Design]",
+              "DocumentMoniker": "E:\\SQL Project Web app\\FeedBackApp\\FeedBackApp\\Feedback.cs",
+              "RelativeDocumentMoniker": "FeedBackApp\\Feedback.cs",
+              "ToolTip": "E:\\SQL Project Web app\\FeedBackApp\\FeedBackApp\\Feedback.cs [Design]",
+              "RelativeToolTip": "FeedBackApp\\Feedback.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:26:51.474Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Feedback.Designer.cs",
+              "DocumentMoniker": "E:\\SQL Project Web app\\FeedBackApp\\FeedBackApp\\Feedback.Designer.cs",
+              "RelativeDocumentMoniker": "FeedBackApp\\Feedback.Designer.cs",
+              "ToolTip": "E:\\SQL Project Web app\\FeedBackApp\\FeedBackApp\\Feedback.Designer.cs",
+              "RelativeToolTip": "FeedBackApp\\Feedback.Designer.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAswLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:23:04.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "E:\\SQL Project Web app\\FeedBackApp\\FeedBackApp\\Feedback.cs",
+              "RelativeDocumentMoniker": "FeedBackApp\\Feedback.cs",
+              "ToolTip": "E:\\SQL Project Web app\\FeedBackApp\\FeedBackApp\\Feedback.cs",
+              "RelativeToolTip": "FeedBackApp\\Feedback.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:19:14.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbConfig.cs",
+              "DocumentMoniker": "E:\\SQL Project Web app\\FeedBackApp\\FeedBackApp\\DbConfig.cs",
+              "RelativeDocumentMoniker": "FeedBackApp\\DbConfig.cs",
+              "ToolTip": "E:\\SQL Project Web app\\FeedBackApp\\FeedBackApp\\DbConfig.cs",
+              "RelativeToolTip": "FeedBackApp\\DbConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:04:24.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeedBackData.cs",
+              "DocumentMoniker": "E:\\SQL Project Web app\\FeedBackApp\\FeedBackApp\\FeedBackData.cs",
+              "RelativeDocumentMoniker": "FeedBackApp\\FeedBackData.cs",
+              "ToolTip": "E:\\SQL Project Web app\\FeedBackApp\\FeedBackApp\\FeedBackData.cs",
+              "RelativeToolTip": "FeedBackApp\\FeedBackData.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAzwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:03:59.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
